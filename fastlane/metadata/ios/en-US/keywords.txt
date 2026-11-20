@@ -1,0 +1,1 @@
+civilization,strategy,tribe,era,idle
